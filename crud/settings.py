@@ -24,7 +24,7 @@ SECRET_KEY = 'ur-geq15)()#o_&@^d3(&r86g=#_@lrj@uvz@)utnbd91l&p)3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 # 'anish360.herokuapp.com', '127.0.0.1'
-ALLOWED_HOSTS = ['127.0.0.1','https://final360.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','final360.herokuapp.com']
 
 # Application definition
 
